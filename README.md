@@ -17,34 +17,44 @@ FastGAPP v2.0 can also support Earth scientists from other fields. Other integra
 What is new in version 2?
 
   Numerous new, extended or improved features are implemented in the new version of FastGAPP.
+  
   FastGAPP start-up window:
+  
     -	new intuitive graphical user interface
     -	reworked file selection system for up to 9 files
     -	new tools help users working with FastGAPP
+    
   File input:
+  
     -	support of mat-file input
     -	automatic import of program-specific headers
+    
   Program functionality:
+  
     -	easy and complete adjustment of plots, labels, and markers
     -	improved data overview
     -	easy export of portable network graphics and encapsulates postscripts
     -	support of multiple instances
     -	save / load sessions
+    
   New program and program updates:
+  
     -	FastGAPP v2.0
       o	more than 50 new plots
       o	MULTIPLotter – user-friendly plotting of multi-element diagrams
       o	PLOT-O-MAT v2.0 – improved plotting of variation diagrams
+      
     -	PetroPlot v2.0
       o	15 new plots
+      
     -	SediPlot v1.0
       o	new program helps plotting sedimentary rocks petrography and grain sizes
       o	includes 10 different plots
+      
     -	SoilPlot v1.0
       o	new program helps plotting soil grain size analyses
       o	includes 1 plot
 
 
-
-Further development of FastGAPP v1.0 published on:
+FastGAPP v2.0 is a further development of FastGAPP v1.0 published on digital-geography.com:
 http://www.digital-geography.com/fastgapp-fast-geochemical-analysis-plotting-program/
